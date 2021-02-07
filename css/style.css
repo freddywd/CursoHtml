@@ -1,0 +1,15 @@
+.frutas{
+    height: 100px;
+    width: 100px;
+}
+.categoria{
+    width: 30px;
+    height: 30px;
+}
+ol{
+    font-size: 30px;
+}
+ul{
+    font-size: 60px;
+}
+
