@@ -9,8 +9,8 @@ html{
 }
 
 header{
-    background-color: grey;
-    height: 8rem;
+    background-color: gray;
+    height: 10rem;
 }
 
 .divNav{
@@ -20,8 +20,6 @@ header{
 
     width: 6rem;
     display: inline-block;
-    position: absolute;
-    left: 3rem;
 
 }
 
@@ -35,7 +33,7 @@ ul li{
     list-style: none;
     font-size: 1.5rem;
     padding: 0.4rem;
-    color: azure;
+    color: ;
     
     
 }
