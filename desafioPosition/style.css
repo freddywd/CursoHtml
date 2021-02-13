@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    border: 2px black dotted;    
+    display: inline-block;
+}
+#principal{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 350px;
+    background-color: aqua;
+    
+}
+
+#secundario{
+    background-color: black;
+   
+}
