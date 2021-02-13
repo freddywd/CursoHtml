@@ -3,38 +3,39 @@
     margin: 0;
     padding: 0;
 }
+
 html{
     font-size: 62.5%;
 }
+
 header{
-    background-color: blue;
-    height: 10rem;
+    background-color: grey;
+    height: 8rem;
 }
 
-aside{
-    background-color: green;
-    width: 18vw;
-    height: 100rem;
+.divNav{
     display: inline-block;
+}
+.logo{
+
+    width: 6rem;
+    display: inline-block;
+    position: absolute;
+    left: 3rem;
 
 }
-.principal{
+
+ul{
+    position: absolute;
+    left: 140rem;
+    top: 1rem;
+}
+ul li{
     display: inline-block;
-    background-color: blueviolet;
-    width: 100rem;
-    height: 100rem;
+    list-style: none;
+    font-size: 1.5rem;
+    padding: 0.4rem;
+    color: azure;
     
-
-
-}
-
-footer{
-    background-color: black;
-    height: 10rem;
     
 }
-.sectiongeneral{
-    display: inline-block;
-}
-
-
