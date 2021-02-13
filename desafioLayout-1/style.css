@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    background-color: blue;
+    height: 10rem;
+}
+
+aside{
+    background-color: green;
+    width: 18vw;
+    height: 100rem;
+    display: inline-block;
+
+}
+.principal{
+    display: inline-block;
+    background-color: blueviolet;
+    width: 100rem;
+    height: 100rem;
+    
+
+
+}
+
+footer{
+    background-color: black;
+    height: 10rem;
+    
+}
+.sectiongeneral{
+    display: inline-block;
+}
+
+
